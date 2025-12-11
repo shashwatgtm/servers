@@ -167,12 +167,26 @@ These files follow Schema.org standards and are provided as a reference for sear
 
 ## 🔗 Professional Links
 
+### Main Profiles
 - **Website:** [gtmexpert.com](https://gtmexpert.com)
-- **LinkedIn:** [shashwat-ghosh-gtm-expert](https://www.linkedin.com/in/shashwat-ghosh-gtm-expert/)
+- **LinkedIn:** [Shashwat Ghosh](https://www.linkedin.com/in/shashwatghosh-ai-b2b-gtm-fractionalcmo/)
+- **Twitter/X:** [@Shashwat_Ghosh](https://x.com/Shashwat_Ghosh)
 - **GitHub:** [shashwatgtm](https://github.com/shashwatgtm)
-- **Newsletter:** [gtmexpert.substack.com](https://gtmexpert.substack.com)
 - **Calendar:** [Book Consultation](https://calendly.com/shashwat-gtmhelix/45min)
+
+### Newsletters
+- **Offbeat AI Watch:** [AI Trendwatch Newsletter](https://shashwatgtm.github.io/ai-trendwatch/)
+- **GTM Whisperer:** [Substack](https://gtmexpert.substack.com/) | [LinkedIn Newsletter](https://www.linkedin.com/newsletters/gtm-whisperer-7020325343286759424/)
+
+### Company & Products
+- **Helix GTM Consulting:** [LinkedIn Page](https://www.linkedin.com/company/helixgtmconsulting)
 - **HyperPlays:** [AI Lead Generation Platform](https://www.hyper-plays.com)
+- **GTM Alpha on Product Hunt:** [Product Page](https://www.producthunt.com/products/gtm-alpha-consultation)
+
+### Publications & Tools
+- **G2 Author Profile:** [Shashwat Ghosh on G2](https://learn.g2.com/author/shashwat-ghosh)
+- **Pepper Content:** [Global Marketing Leaders Profile](https://www.peppercontent.io/global-marketing-leaders/shashwat-ghosh/)
+- **Apify AI Actors:** [My Automation Tools](https://apify.com/shashghosh)
 
 ## 📞 Contact Information
 
