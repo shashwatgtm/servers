@@ -1,0 +1,46 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-10-17/server.schema.json",
+  "name": "io.github.shashwatgtm/gtm-alpha-mcp-server",
+  "description": "Professional GTM (Go-To-Market) consultation using the EPIC framework. Provides strategic guidance for Ecosystem & ABM, Product-Led Growth, Inbound/Outbound Demand Generation, and Community-Led Planning with real backend calculations, 30-day persistence, and progress tracking.",
+  "repository": {
+    "url": "https://github.com/shashwatgtm/gtm-expert-schema",
+    "source": "github"
+  },
+  "version": "1.0.1",
+  "packages": [
+    {
+      "registryType": "npm",
+      "identifier": "@shashwatgtmalpha/gtm-alpha-mcp-server",
+      "version": "1.0.1",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ],
+  "remoteEndpoints": [
+    {
+      "url": "https://gtmalpha.netlify.app/.netlify/functions/mcp",
+      "transport": {
+        "type": "sse"
+      }
+    }
+  ],
+  "tools": [
+    {
+      "name": "gtm_alpha_real_consultation",
+      "description": "Professional GTM consultation with EPIC framework analysis. Provides strategic recommendations for go-to-market strategy across Ecosystem & ABM, Product-Led Growth, Inbound/Outbound Demand Generation, and Community-Led Planning."
+    },
+    {
+      "name": "epic_progress_tracker",
+      "description": "Track and monitor progress across EPIC framework dimensions. Provides 30-day persistence for tracking GTM strategy implementation milestones."
+    },
+    {
+      "name": "epic_framework_deep_audit",
+      "description": "Comprehensive audit of your GTM strategy using the EPIC framework. Analyzes gaps and opportunities across all four strategic pillars."
+    },
+    {
+      "name": "premium_consultation_scheduler",
+      "description": "Schedule premium consultation sessions for in-depth GTM strategy discussions and personalized guidance."
+    }
+  ]
+}
