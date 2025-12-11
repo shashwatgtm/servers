@@ -176,7 +176,7 @@ These files follow Schema.org standards and are provided as a reference for sear
 
 ## 📞 Contact Information
 
-- **Email:** shashwat@gtmexpert.com
+- **Email:** shashwat@hyperplays.in
 - **Phone:** +91 9810603649
 - **Location:** Bengaluru, Karnataka, India
 - **Languages:** English, Hindi
@@ -240,6 +240,6 @@ This repository is actively maintained to reflect:
 
 **© 2025 Helix GTM Consulting | Shashwat Ghosh - GTM Alpha Consultant**
 
-*For technical questions about schema implementation or business inquiries, contact shashwat@gtmexpert.com*
+*For technical questions about schema implementation or business inquiries, contact shashwat@hyperplays.in*
 
 **Last Updated:** December 11, 2025
